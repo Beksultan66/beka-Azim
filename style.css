@@ -5,7 +5,7 @@ body {
    background-image: url('https://knews.kg/wp-content/uploads/2017/09/BEK_2476.jpg');
      height: 450px;
      background-repeat: no-repeat;
-     background-size: cover;
+     background-size: blue ;
 }
 header h1{
     text-align: center;
@@ -50,7 +50,7 @@ table, td{
 
 tr:first-child{
     background-color: lightblue;
-    border: 5px solid blueviolet
+    border: 3px solid blueviolet
 }
 
 tr{
